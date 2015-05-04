@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Feature Name</key>
+	<string>Withdrawer</string>
+	<key>Content</key>
+	<dict>
+		<key>US Currencies Default</key>
+		<array>
+			<dict>
+				<key>Name</key>
+				<string>$100</string>
+				<key>HighlightColorRefString</key>
+				<string>#FFFFFA8F</string>
+				<key>Value</key>
+				<integer>100</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>$50</string>
+				<key>HighlightColorRefString</key>
+				<string>#FF9EE29E</string>
+				<key>Value</key>
+				<integer>50</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>$20</string>
+				<key>HighlightColorRefString</key>
+				<string>#FFC29BDF</string>
+				<key>Value</key>
+				<integer>20</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>$10</string>
+				<key>HighlightColorRefString</key>
+				<string>#FFEE7154</string>
+				<key>Value</key>
+				<integer>10</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>$5</string>
+				<key>HighlightColorRefString</key>
+				<string>#FF799FFF</string>
+				<key>Value</key>
+				<integer>5</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>$1</string>
+				<key>HighlightColorRefString</key>
+				<string>#FFFDC06D</string>
+				<key>Value</key>
+				<integer>1</integer>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Name</key>
+				<string>Cents</string>
+				<key>HighlightColorRefString</key>
+				<string>#FFB3E9FF</string>
+				<key>Value</key>
+				<real>0.01</real>
+				<key>Counter</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+</dict>
+</plist>
