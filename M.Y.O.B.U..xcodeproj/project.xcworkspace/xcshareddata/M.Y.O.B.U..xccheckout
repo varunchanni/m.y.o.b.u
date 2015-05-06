@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>4EDE2B74-213E-4C51-8095-342B1C8EB825</string>
+	<key>IDESourceControlProjectName</key>
+	<string>M.Y.O.B.U.</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03ED960D378D10AD9FB5CC5E268C623185E20AD6</key>
+		<string>https://github.com/varunchanni/m.y.o.b.u.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>M.Y.O.B.U..xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03ED960D378D10AD9FB5CC5E268C623185E20AD6</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/varunchanni/m.y.o.b.u.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03ED960D378D10AD9FB5CC5E268C623185E20AD6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03ED960D378D10AD9FB5CC5E268C623185E20AD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>m.y.o.b.u</string>
+		</dict>
+	</array>
+</dict>
+</plist>
